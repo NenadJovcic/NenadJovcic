@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**NenadJovcic/NenadJovcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nenad Jovcic, a Fullstack Developer with a passion for creating user-friendly and responsive web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - **Content Management System (CMS)**: Developing a CMS that allows non-programmers to create responsive websites effortlessly using component-based building blocks and drag-and-drop functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
+  - My love for video games sparked a passion for coding
+
+ - 📫 How to reach me:
+  - **Email**: [Nenad.hif@hotmail.se](mailto:Nenad.hif@hotmail.se)
+  - **LinkedIn**: [Nenad Jovcic](https://www.linkedin.com/in/nenad-jovcic-8350b028b/)
+
