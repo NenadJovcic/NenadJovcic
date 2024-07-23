@@ -8,7 +8,7 @@ I'm Nenad Jovcic, a Fullstack Developer with a passion for creating user-friendl
 - ⚡ Fun fact:
   - My love for video games sparked a passion for coding
 
- - 📫 How to reach me:
+
   - **Email**: [Nenad.hif@hotmail.se](mailto:Nenad.hif@hotmail.se)
   - **LinkedIn**: [Nenad Jovcic](https://www.linkedin.com/in/nenad-jovcic-8350b028b/)
 
